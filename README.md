@@ -9,4 +9,4 @@ Task Creation: Users can easily add new tasks, specifying details such as task n
 Task Organization: The application allows for creation of tasks, and marking tasks as complete.
 
 User-Friendly Interface: The user interface is designed to be visually appealing and easy to navigate, ensuring a pleasant user experience.
-![Screenshot 2023-10-05 180605](https://github.com/Arunika22/TODO/assets/97836808/c2ecc403-72c7-4df5-9323-3c057ee5f680)
+![Screenshot 2023-10-05 180605](https://github.com/Arunika22/TODO/assets/97836808/1d80811f-498b-4f29-aab9-ea518d0cf885)
